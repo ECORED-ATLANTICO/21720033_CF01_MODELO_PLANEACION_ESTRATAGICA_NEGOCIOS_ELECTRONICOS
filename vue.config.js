@@ -4,8 +4,8 @@ module.exports = {
   publicPath: '',
   devServer: {
     watchOptions: {
-      poll: 1000  // usa polling en lugar de fsevents
-    }
+      poll: 1000, // usa polling en lugar de fsevents
+    },
   },
   css: {
     loaderOptions: {
@@ -18,9 +18,9 @@ module.exports = {
             'import',
             'global-builtin',
             'color-functions',
-            'slash-div'
-          ]
-        }
+            'slash-div',
+          ],
+        },
       },
     },
   },
