@@ -40,28 +40,103 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Internet',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Comercio electrónico',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Negocios electrónicos',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Evolución de los negocios electrónicos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Productos, servicios y procesos (segmentación del mercado)',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Planeación estratégica',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Misión',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Visión',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Objetivos',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Políticas de calidad ',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Responsabilidad social',
+            hash: 't_4_6',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Análisis de mercado',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Matriz DOFA.',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Composición ',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Estrategias DOFA',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Análisis DOFA ',
+            hash: 't_5_4',
+          },
+          {
+            numero: '5.5',
+            titulo: 'Análisis del perfil competitivo MPC',
+            hash: 't_5_5',
+          },
+        ],
       },
     ],
     subMenu: [
