@@ -50,8 +50,8 @@
             h5 Figura 1.
             |    Importancia del internet en los negocios electrónicos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/tema1/img_7.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/tema1/img_8.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption Nota. Sena, (2026).
 
     Separador
@@ -131,8 +131,8 @@
           h5 Figura 2.
           |    Características del comercio electrónico
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema1/img_15.svg', class="img-fluid d-none d-lg-block").mb-5
+          img(src='@/assets/curso/tema1/img_16.svg', class="img-fluid d-block d-lg-none").mb-5
           figcaption Nota. Sena, (2026).
 
     .bg_img_4.mb-3
@@ -149,20 +149,20 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
-                  img(src='@/assets/curso/tema1/img_17.png', class="img-fluid p-3")
+                  img(src='@/assets/curso/tema1/img_18.png', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 El comercio electrónico se clasifica según la naturaleza de los actores que intervienen en la transacción. Esta clasificación permite comprender mejor las dinámicas del mercado digital y diseñar estrategias comerciales acordes a cada modelo de negocio. A continuación, se enuncian los modelos de comercio electrónico según los actores involucrados.
           p.mb-0(data-aos='zoom-in-right') Tipos de comercio electrónico según los participantes con ejemplos reales
         .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
-            img(src='@/assets/curso/tema1/img_18.png', class="img-fluid") 
+            img(src='@/assets/curso/tema1/img_19.png', class="img-fluid") 
 
       .row.d-flex.align-items-stretch.justify-content-center.mb-0 
         .col-12.col-md-6.col-lg-3.col-xl-3.d-flex.mb-3.mb-xl-0(data-aos="flip-left")
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
             .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--color-adicional-1.mb-3
               figure.mb-0
-                img(src='@/assets/curso/tema1/img_19.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
+                img(src='@/assets/curso/tema1/img_20.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 B2C
               p.mb-0 Empresa vende al consumidor final.
@@ -171,7 +171,7 @@
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
             .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
               figure.mb-0
-                img(src='@/assets/curso/tema1/img_20.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
+                img(src='@/assets/curso/tema1/img_21.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 B2B
               p.mb-0 Transacciones entre empresas.
@@ -181,7 +181,7 @@
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
             .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
               figure.mb-0
-                img(src='@/assets/curso/tema1/img_21.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
+                img(src='@/assets/curso/tema1/img_22.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 C2C
               p.mb-0 Intercambio entre consumidores.
@@ -191,7 +191,7 @@
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
             .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
               figure.mb-0
-                img(src='@/assets/curso/tema1/img_22.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
+                img(src='@/assets/curso/tema1/img_23.png', class="img-fluid" style="max-height: 100px; object-fit: contain;")
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 B2G
               p.mb-0 Empresa vende al Estado. 
@@ -208,7 +208,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
-            img(src='@/assets/curso/tema1/img_24.png', class="img-fluid") 
+            img(src='@/assets/curso/tema1/img_25.png', class="img-fluid") 
         .col-12.col-lg-9
           p.mb-3(data-aos="zoom-in-right") Los negocios electrónicos comprenden el uso estratégico de internet y de las tecnologías de la información para apoyar, integrar y optimizar todas las actividades de una organización. A diferencia del comercio electrónico, que se enfoca principalmente en la transacción comercial, los negocios electrónicos abarcan procesos internos y externos como la gestión administrativa, el mercadeo digital, la logística, el servicio al cliente y la toma de decisiones basada en datos.
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
@@ -217,11 +217,11 @@
                 p.mb-0 En este modelo, la tecnología se convierte en un aliado estratégico que permite mejorar la eficiencia operativa y la capacidad de respuesta frente a los cambios del entorno. Las organizaciones que adoptan enfoques de negocios electrónicos logran una mayor coordinación entre sus áreas funcionales, reducen costos operativos y fortalecen su propuesta de valor.
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
-                  img(src='@/assets/curso/tema1/img_25.png', class="img-fluid")
+                  img(src='@/assets/curso/tema1/img_26.png', class="img-fluid")
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
           figure
-            img(src='@/assets/curso/tema1/img_26.svg', class="img-fluid p-3")
+            img(src='@/assets/curso/tema1/img_27.svg', class="img-fluid p-3")
         .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
           p.mb-0 Los negocios electrónicos impulsan la innovación organizacional mediante la implementación de plataformas digitales que facilitan nuevos modelos de negocio, como servicios bajo demanda, comercio colaborativo y ecosistemas digitales. Estos modelos transforman la relación tradicional entre empresa y cliente, generando experiencias más personalizadas y eficientes
 
@@ -266,7 +266,7 @@
           .row.justify-content-around.align-items-center.mb-0
             .col-auto.d-flex.align-items-center.ps-4.py-3
               figure.m-0
-                img(src="@/assets/curso/tema1/img_27.svg" style="width: 80px; height: auto;")
+                img(src="@/assets/curso/tema1/img_28.svg" style="width: 80px; height: auto;")
             .col.py-4.px-3
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
@@ -275,7 +275,6 @@
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=LnUX087fcsk" target="_blank")
                     span Enlace
                     i.fas.fa-link.ms-2
-
 </template>
 
 <script>

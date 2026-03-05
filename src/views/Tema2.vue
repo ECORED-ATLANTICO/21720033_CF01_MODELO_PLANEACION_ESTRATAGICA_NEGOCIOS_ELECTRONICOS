@@ -43,8 +43,8 @@
             h5 Figura 3.
             |    Evolución en los negocios electrónicos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/tema2/img_6.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption Nota. Sena, (2026).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -53,7 +53,7 @@
           .row.align-items-center.mb-0
             .col-auto.d-flex.align-items-center.ps-4.py-3
               figure.m-0
-                img(src="@/assets/curso/tema2/img_6.svg" style="width: 100px; height: auto;")
+                img(src="@/assets/curso/tema2/img_8.svg" style="width: 100px; height: auto;")
             .col.py-4.pe-4
               p.fw-bold.text-white.mb-3 Acceder a los siguientes enlaces para ampliar sus conocimientos sobre comercio electrónico, sus modelos, aplicaciones y el contexto colombiano en el desarrollo de los negocios digitales:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://colombiatic.mintic.gov.co/679/articles-197363_recurso_1.pdf" target="_blank")
