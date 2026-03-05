@@ -34,6 +34,90 @@
     &--colo-blanco
       background-color: $white
 
+  &--color-acento-contenido-cv
+    background-color: $color-acento-contenido-cv
+    &:active, &:focus, &:hover
+      background-color: $color-primario-v
+
+  &--bg-img
+    overflow: hidden
+    figure
+      margin: 0
+      height: 100%
+      img
+        width: 100%
+        height: 100%
+        object-fit: cover
+        object-position: center
+        display: block
+
+    &.color-primario
+      background-color: $color-primario
+      *
+        color: textColor($color-primario)
+      &--borde
+        background-color: lighten($color-primario, 50%)
+        color: textColor(lighten($color-primario, 50%))
+        border: solid 4px $color-primario
+    &.color-primario-cv
+      background-color: $color-primario-cv
+      *
+        color: textColor($color-primario-cv)
+      &--borde
+        background-color: lighten($color-primario-cv, 50%)
+        color: textColor(lighten($color-primario-cv, 50%))
+        border: solid 4px $color-primario-cv
+    &.color-primario-v
+      background-color: $color-primario-v
+      *
+        color: textColor($color-primario-v)
+      &--borde
+        background-color: lighten($color-primario-v, 50%)
+        color: textColor(lighten($color-primario-v, 50%))
+        border: solid 4px $color-primario-v
+    &.color-secundario
+      background-color: $color-secundario
+      *
+        color: textColor($color-secundario)
+      &--borde
+        background-color: lighten($color-secundario, 50%)
+        color: textColor(lighten($color-secundario, 50%))
+        border: solid 4px $color-secundario
+    &.color-secundario-cv
+      background-color: $color-secundario-cv
+      *
+        color: textColor($color-secundario-cv)
+      &--borde
+        background-color: lighten($color-secundario-cv, 50%)
+        color: textColor(lighten($color-secundario-cv, 50%))
+        border: solid 4px $color-secundario-cv
+    &.color-acento-contenido
+      background-color: $color-acento-contenido
+      *
+        color: textColor($color-acento-contenido)
+      &--borde
+        background-color: lighten($color-acento-contenido, 50%)
+        color: textColor(lighten($color-acento-contenido, 50%))
+        border: solid 4px $color-acento-contenido
+    &.color-acento-botones
+      background-color: $color-acento-botones
+      *
+        color: textColor($color-acento-botones)
+      &--borde
+        background-color: lighten($color-acento-botones, 50%)
+        color: textColor(lighten($color-acento-botones, 50%))
+        border: solid 4px $color-acento-botones
+  
+  .img-bagraun-1
+    .color-acento-botones
+    background-color: $color-acento-botones
+    *
+      color: textColor($color-acento-botones)
+    &--borde
+      background-color: lighten($color-acento-botones, 50%)
+      color: textColor(lighten($color-acento-botones, 50%))
+      border: solid 4px $color-acento-botones
+
   &--bg-img
     overflow: hidden
     figure
@@ -379,11 +463,16 @@
     border-radius: 60px
     width: 60px
     height: 60px
-    display: inline-block
-    position: absolute  
+    display: flex
+    align-items: center
+    justify-content: center
+    position: absolute
     left: 0
-    top: 25px
-    transform: translateX(-50%)
+    top: 50%
+    transform: translate(-50%, -50%)
+    .h2
+      margin: 0
+      line-height: 1
     div
       position: absolute
       left: 50%
@@ -391,7 +480,8 @@
       transform: translate(-50%, -50%)
 
   &.color-primario
-    border-color: $color-primario
+    border-color: $color-primario-v 
+    background-color: $color-primario-v 
     .tarjeta-numerada__numero
       background-color: $color-primario
       div
