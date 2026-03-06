@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    p El componente formativo Comercio electrónico y análisis organizacional permite al aprendiz comprender los fundamentos del internet, el comercio y los negocios electrónicos, así como su evolución y aplicación en los entornos digitales. A lo largo del proceso formativo, se analizan los productos, servicios y procesos desde la segmentación del mercado, integrando la planeación estratégica mediante la definición de misión, visión, objetivos, políticas de calidad y responsabilidad social. Además, se desarrollan habilidades para el análisis del mercado digital a través de herramientas como la matriz DOFA y el perfil competitivo (MPC), orientando la toma de decisiones estratégicas y el fortalecimiento de la competitividad organizacional.
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Comercio electrónico y análisis organizacional permite al aprendiz comprender los fundamentos del internet, el comercio electrónico y los negocios electrónicos, así como su evolución y aplicación en los entornos digitales. A lo largo del proceso formativo, se analizan los productos, servicios y procesos desde la segmentación del mercado, integrando la planeación estratégica mediante la definición de misión, visión, objetivos, políticas de calidad y responsabilidad social. Además, se desarrollan habilidades para el análisis del mercado digital a través de herramientas como la matriz DOFA y el perfil competitivo (MPC), orientando la toma de decisiones estratégicas y el fortalecimiento de la competitividad organizacional.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

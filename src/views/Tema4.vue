@@ -10,13 +10,13 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1
         .tarjeta.color-primario-v.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
-          .row.justify-content-center.align-items-center.mb-0
+          .row.justify-content-center.align-items-stard.mb-0
             .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema4/img_1.svg', class="img-fluid")
             .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
               p.mb-0 En el contexto del comercio electrónico, la planeación estratégica se convierte en una herramienta clave para identificar de manera anticipada las transformaciones del entorno digital, reaccionar con eficacia frente a la competencia y asegurar que los recursos de la organización se orienten al cumplimiento de los objetivos del negocio. De igual forma, este proceso respalda la toma de decisiones fundamentadas en información veraz, impulsa la innovación permanente y favorece la adaptación a las dinámicas propias del mercado digital.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_2.png', class="img-fluid") 
 
@@ -27,7 +27,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_3.png', class="img-fluid") 
       .col-12.col-lg-9
@@ -56,7 +56,7 @@
             th.col-auto.col-lg-auto Aplicación de la planeación estratégica
         tbody
           tr
-            td.text-start Amazon
+            td.text-start Amazon.
             td.text-start Comercio electrónico.
             td.text-start Planea su crecimiento mediante análisis de datos, automatización logística y expansión digital continua.
           tr
@@ -91,7 +91,7 @@
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Una misión bien definida guía la cultura interna, coordina los esfuerzos del talento humano y asegura que las decisiones estratégicas y operativas del negocio electrónico se mantengan alineadas.
           p.mb-0(data-aos="zoom-in-right") La misión está compuesta por los siguientes elementos a tener en cuenta para su redacción:
-        .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_7.png', class="img-fluid") 
 
@@ -159,7 +159,7 @@
     .bg_img_11.mb-3
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_15.png', class="img-fluid") 
         .col-12.col-lg-9
@@ -266,12 +266,12 @@
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Cuando se definen correctamente, los objetivos estratégicos facilitan la evaluación del desempeño del negocio, permiten realizar ajustes necesarios a tiempo y garantizan que la estrategia se mantenga alineada con las operaciones diarias.
           p.mb-0(data-aos="zoom-in-right") Los objetivos están compuestos por los siguientes elementos a tener en cuenta para su redacción:
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_25.png', class="img-fluid")         
       
       .row.justify-content-center.align-items-strat.mb-5
-        .col-9.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema4/img_26.png', class="img-fluid")
         .col-12.col-lg-9.order-2.order-lg-1.mb-3
@@ -279,31 +279,31 @@
             .row.justify-content-center.align-items-center.mb-0(titulo="Concreción y medición")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Traducen la misión y la visión en metas específicas, claras y medibles que orientan la acción organizacional.
-              .col-lg-1.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_27.svg', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0(titulo="Crecimiento digital")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Incluyen metas para ampliar la presencia de la empresa en canales y plataformas digitales.
-              .col-lg-1.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_28.svg', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0(titulo="Captación y fidelización de clientes")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Establecen estrategias para atraer nuevos usuarios y mantener la lealtad de los existentes.
-              .col-lg-1.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_29.svg', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0(titulo="Optimización de procesos")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Mejoran la eficiencia operativa mediante la tecnología y la innovación en modelos de negocio.
-              .col-lg-1.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_30.svg', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0(titulo="Evaluación y ajuste")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Permiten monitorear resultados, realizar correcciones a tiempo y asegurar que las operaciones estén alineadas con la estrategia general.
-              .col-lg-1.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_31.svg', class="img-fluid")
            
@@ -343,7 +343,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_33.png', class="img-fluid") 
         .col-12.col-lg-9
@@ -351,7 +351,7 @@
           .row.justify-content-center.align-items-center.mb-3
             .col-12.col-lg-12(data-aos="zoom-in-right")
               .cita-decorada
-                blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+                blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-2
                   .row.justify-content-center.align-items-center
                     .col-12.col-lg-10
                       p.cita-decorada__texto.mb-2.p-3 Cuando las políticas se definen de manera clara y coherente, no solo facilitan la operación interna y la gobernanza corporativa, sino que también fortalecen la confianza de los clientes, garantizan el cumplimiento de las normas legales y regulatorias, y contribuyen a la sostenibilidad y reputación del negocio electrónico a largo plazo. Además, establecen un marco que permite adaptarse de manera ágil a los cambios tecnológicos y a las exigencias del mercado digital, minimizando riesgos y promoviendo la innovación responsable.
@@ -395,7 +395,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_37.png', class="img-fluid") 
         .col-12.col-lg-9

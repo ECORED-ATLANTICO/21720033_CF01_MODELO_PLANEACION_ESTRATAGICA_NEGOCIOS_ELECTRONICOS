@@ -186,22 +186,200 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Internet',
+      referencia:
+        'SENA. (2023). <em>Conceptos básicos sobre marketing digital</em>.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=LnUX087fcsk',
+    },
+    {
+      tema: 'Evolución de los negocios electrónicos',
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones – MinTIC. (2019). <em>Libro blanco del comercio electrónico en Colombia</em>.',
+      tipo: 'Modulo',
+      link:
+        'https://colombiatic.mintic.gov.co/679/articles-197363_recurso_1.pdf',
+    },
+    {
+      tema: 'Evolución de los negocios electrónicos',
+      referencia:
+        'Rodríguez, J. C. (2019). <em>Comercio electrónico: fundamentos, modelos y aplicaciones</em>. Universidad Cooperativa de Colombia.',
+      tipo: 'Modulo',
+      link:
+        'https://repository.ucc.edu.co/server/api/core/bitstreams/693b8bdc-9024-429c-8182-37a4416d2c47/content',
+    },
+    {
+      tema: 'Análisis del mercado',
+      referencia:
+        'Talancón, H. P. (2013). <em>La matriz FODA: alternativa de diagnóstico y determinación de estrategias</em>. Revista Academia y Negocios, 2(1), 113–130.',
+      tipo: 'Articulo revista científica',
+      link: 'https://www.redalyc.org/pdf/292/29212108.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Analítica digital',
+      significado:
+        'Proceso de recopilación, medición y análisis de datos generados en entornos digitales para apoyar la toma de decisiones.',
+    },
+    {
+      termino: 'Amenazas',
+      significado:
+        'Factores externos que pueden afectar negativamente el desempeño, la competitividad y la sostenibilidad organizacional.',
+    },
+    {
+      termino: 'Automatización',
+      significado:
+        'Uso de herramientas tecnológicas para ejecutar procesos comerciales y operativos con mínima intervención humana.',
+    },
+    {
+      termino: 'Comercio electrónico',
+      significado:
+        'Realización de transacciones de compra y venta de bienes o servicios a través de plataformas digitales.',
+    },
+    {
+      termino: 'Competitividad',
+      significado:
+        'Capacidad de una organización para mantener y mejorar su posición frente a sus competidores en el mercado.',
+    },
+    {
+      termino: 'Debilidades',
+      significado:
+        'Limitaciones internas que reducen la eficiencia y el desempeño de una organización.',
+    },
+    {
+      termino: 'Estrategias DA',
+      significado:
+        'Acciones orientadas a disminuir debilidades internas y minimizar el impacto de amenazas externas.',
+    },
+    {
+      termino: 'Estrategias DO',
+      significado:
+        'Estrategias diseñadas para superar debilidades internas aprovechando oportunidades del entorno.',
+    },
+    {
+      termino: 'Estrategias FA',
+      significado:
+        'Acciones que utilizan fortalezas internas para enfrentar riesgos y amenazas externas.',
+    },
+    {
+      termino: 'Estrategias FO',
+      significado:
+        'Estrategias que aprovechan fortalezas internas para capitalizar oportunidades externas.',
+    },
+    {
+      termino: 'Experiencia del usuario',
+      significado:
+        'Percepción y nivel de satisfacción del cliente durante la interacción con una plataforma digital.',
+    },
+    {
+      termino: 'Factores críticos de éxito',
+      significado:
+        'Elementos determinantes que influyen directamente en el logro de los objetivos organizacionales.',
+    },
+    {
+      termino: 'Fortalezas',
+      significado:
+        'Recursos y capacidades internas que generan ventajas competitivas para la organización.',
+    },
+    {
+      termino: 'Innovación digital',
+      significado:
+        'Aplicación de tecnologías digitales para mejorar productos, servicios o procesos empresariales.',
+    },
+    {
+      termino: 'Internet',
+      significado:
+        'Infraestructura tecnológica global que permite la interconexión de dispositivos y el intercambio de información.',
+    },
+    {
+      termino: 'Logística',
+      significado:
+        'Conjunto de actividades relacionadas con el almacenamiento, transporte y entrega de productos al cliente.',
+    },
+    {
+      termino: 'Marketing digital',
+      significado:
+        'Estrategias de promoción y comunicación realizadas a través de canales digitales.',
+    },
+    {
+      termino: 'Matriz DOFA',
+      significado:
+        'Herramienta estratégica que analiza fortalezas, oportunidades, debilidades y amenazas organizacionales.',
+    },
+    {
+      termino: 'Matriz de Perfil Competitivo (MPC)',
+      significado:
+        'Instrumento que compara el desempeño de una empresa frente a sus competidores según factores clave.',
+    },
+    {
+      termino: 'Negocios electrónicos',
+      significado:
+        'Uso estratégico de tecnologías digitales para integrar y optimizar procesos organizacionales.',
+    },
+    {
+      termino: 'Oportunidades',
+      significado:
+        'Factores externos favorables que pueden ser aprovechados para el crecimiento empresarial.',
+    },
+    {
+      termino: 'Plataforma tecnológica',
+      significado:
+        'Sistema digital que soporta la operación y gestión de un negocio electrónico.',
+    },
+    {
+      termino: 'Posicionamiento de marca',
+      significado:
+        'Nivel de reconocimiento y percepción de una marca en la mente del consumidor.',
+    },
+    {
+      termino: 'Procesos digitales',
+      significado:
+        'Actividades empresariales apoyadas o automatizadas mediante tecnologías digitales.',
+    },
+    {
+      termino: 'Segmentación del mercado',
+      significado:
+        'Proceso de división del mercado en grupos con características y necesidades similares.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'David, F. R. (2020). <em>Conceptos de administración estratégica</em> (16.ª ed.). Pearson Educación.',
       link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2021). <em>Dirección de marketing</em> (16.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Laudon, K. C., & Laudon, J. P. (2020). <em>Sistemas de información gerencial: Administración de la empresa digital</em> (15.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC). (2019). <em>Libro blanco del comercio electrónico en Colombia</em>.',
+      link:
+        'https://colombiatic.mintic.gov.co/679/articles-197363_recurso_1.pdf',
+    },
+    {
+      referencia:
+        'Porter, M. E. (2008). <em>Ventaja competitiva: Creación y sostenimiento de un desempeño superior</em>. Grupo Editorial Patria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, J. C. (2019). <em>Comercio electrónico: fundamentos, modelos y aplicaciones</em>. Universidad Cooperativa de Colombia.',
+      link:
+        'https://repository.ucc.edu.co/server/api/core/bitstreams/693b8bdc-9024-429c-8182-37a4416d2c47/content',
+    },
+    {
+      referencia:
+        'Talancón, H. P. (2013). <em>La matriz FODA: alternativa de diagnóstico y determinación de estrategias</em>. Revista Academia y Negocios, 2(1), 113–130.',
+      link: 'https://www.redalyc.org/pdf/292/29212108.pdf',
     },
   ],
   creditos: [

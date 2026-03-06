@@ -8,7 +8,7 @@
       h1 Internet
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_1.png', class="img-fluid") 
       .col-12.col-lg-9
@@ -40,7 +40,7 @@
                   img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Ejemplo de ello son las empresas como Rappi y Mercado Libre surgieron aprovechando el acceso masivo a internet, logrando conectar oferta y demanda mediante plataformas digitales, sin necesidad de infraestructura física tradicional.
-        .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
 
@@ -50,8 +50,8 @@
             h5 Figura 1.
             |    Importancia del internet en los negocios electrónicos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema1/img_7.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/tema1/img_8.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/tema1/img_7.svg', class="img-fluid d-none d-lg-block", alt="La figura 1 muestra cual es la importancia del internet en los negocios electrónicos. ").mb-5
+            img(src='@/assets/curso/tema1/img_8.svg', class="img-fluid d-block d-lg-none", alt="La figura 1 muestra cual es la importancia del internet en los negocios electrónicos. ").mb-5
             figcaption Nota. Sena, (2026).
 
     Separador
@@ -75,7 +75,7 @@
           h4.subtitulo-destacado__texto Características del comercio electrónico.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_12.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -107,7 +107,7 @@
           tr
             td.text-start Disponibilidad.
             td.text-start Operación continua sin restricciones horarias.
-            td.text-start Amazon opera 24/7 a nivel mundial.
+            td.text-start Amazon opera 24 / 7 a nivel mundial.
           tr
             td.text-start Alcance.
             td.text-start Acceso a mercados nacionales e internacionales.
@@ -131,8 +131,8 @@
           h5 Figura 2.
           |    Características del comercio electrónico
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema1/img_15.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema1/img_16.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema1/img_15.svg', class="img-fluid d-none d-lg-block", alt="En la figura 2 se enlistan las mas importantes características del comercio electrónico. ").mb-5
+          img(src='@/assets/curso/tema1/img_16.svg', class="img-fluid d-block d-lg-none", alt="En la figura 2 se enlistan las mas importantes características del comercio electrónico. ").mb-5
           figcaption Nota. Sena, (2026).
 
     .bg_img_4.mb-3
@@ -206,7 +206,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_25.png', class="img-fluid") 
         .col-12.col-lg-9

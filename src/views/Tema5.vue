@@ -40,7 +40,7 @@
                   img(src='@/assets/curso/tema5/img_4.svg', class="img-fluid")
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
                 p.mb-0 La matriz DOFA facilita una visión integral del negocio electrónico al identificar los factores que fortalecen o limitan su desempeño interno, así como las oportunidades y amenazas derivadas del mercado, la tecnología, la competencia y el comportamiento del consumidor digital. Su aplicación contribuye a una toma de decisiones más objetiva y alineada con la realidad del entorno.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_5.png', class="img-fluid") 
 
@@ -110,7 +110,7 @@
             .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
               p.mb-0 Las estrategias DOFA se formulan a partir de la relación entre los factores internos y externos identificados en la matriz. En los negocios electrónicos, estas estrategias buscan fortalecer la competitividad, promover la innovación y garantizar la sostenibilidad del modelo de negocio en un entorno digital altamente dinámico.
         p.mb-0(data-aos="zoom-in-right") A partir del análisis DOFA se pueden establecer cuatro tipos de estrategias:
-      .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_13.png', class="img-fluid") 
 
@@ -144,12 +144,12 @@
             h5 Figura 4.
             |    Estrategias DOFA
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema5/img_15.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/tema5/img_16.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/tema5/img_15.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra las diferentes estrategias que se generan del análisis DOFA y su respectivo alcance.").mb-5
+            img(src='@/assets/curso/tema5/img_16.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra las diferentes estrategias que se generan del análisis DOFA y su respectivo alcance.").mb-5
             figcaption Nota. Sena, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-10.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_17.png', class="img-fluid") 
       .col-12.col-lg-9
@@ -206,7 +206,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_20.png', class="img-fluid") 
         .col-12.col-lg-9
@@ -256,7 +256,7 @@
         h4.mb-5(data-aos="zoom-in-right") Matriz DOFA de ClickNova Digital S.A.S.
         
         .row.justify-content-center.align-items-strat.mb-5
-          .col-9.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+          .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
             figure
               img(src='@/assets/curso/tema5/img_25.png', class="img-fluid")
           .col-12.col-lg-9.order-2.order-lg-1.mb-3
@@ -351,7 +351,7 @@
         TabsB.color-primario.mb-5.rounded-bottom-4.rounded-0(data-aos="zoom-in-right")
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias FO<br>(fortalezas + oportunidades)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-3.mb-lg-0
+              .col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_30.png', class="img-fluid")
               .col-12.col-lg-8
@@ -364,7 +364,7 @@
                     span Aprovechar herramientas digitales de bajo costo para posicionar la marca en redes sociales
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias DO<br>(debilidades + oportunidades)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-3.mb-lg-0
+              .col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_31.png', class="img-fluid")
               .col-12.col-lg-8
@@ -377,7 +377,7 @@
                     span Diseñar campañas digitales segmentadas que optimicen el presupuesto de marketing.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias FA<br>(fortalezas + amenazas)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-3.mb-lg-0
+              .col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_32.png', class="img-fluid")
               .col-12.col-lg-8
@@ -390,7 +390,7 @@
                     span Diferenciar la experiencia de compra mediante atención digital personalizada.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias DA<br>(debilidades + amenazas)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-3.mb-lg-0
+              .col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_33.png', class="img-fluid")
               .col-12.col-lg-8
@@ -433,7 +433,7 @@
                   img(src='@/assets/curso/tema5/img_37.svg', class="img-fluid")
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
                 p.mb-0 La matriz de perfil competitivo analiza variables críticas como calidad del producto, participación de mercado, innovación, posicionamiento de marca, tecnología, servicio al cliente y estrategia digital. A cada factor se le asigna un peso según su importancia y una calificación según el desempeño de la empresa frente a la competencia.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_38.png', class="img-fluid") 
 
@@ -538,7 +538,7 @@
         h4.subtitulo-destacado__texto Integración del DOFA y el perfil competitivo
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_40.png', class="img-fluid") 
       .col-12.col-lg-8
