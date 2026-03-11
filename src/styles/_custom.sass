@@ -64,10 +64,12 @@
   background-image: url('../assets/curso/portada/banner_interno.png') !important
 
 .banner-principal__row .banner-principal__img
-  background-position: left 50%
-  background-repeat: no-repeat
-  background-size: cover
+  width: 500px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
 
+.banner-principal .tarjeta
+  background-position: left 50% !important
   background-image: url('../assets/curso/portada/fondo-banner-principal-xs.png') !important
 
   @media (min-width: $bp-min-sm)

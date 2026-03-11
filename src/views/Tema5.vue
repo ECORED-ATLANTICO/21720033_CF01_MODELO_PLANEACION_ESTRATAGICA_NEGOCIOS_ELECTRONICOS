@@ -673,7 +673,7 @@
           .row.justify-content-around.align-items-center.mb-0
             .col-auto.d-flex.align-items-center.ps-4.py-3
               figure.m-0
-                img(src="@/assets/curso/tema1/img_28.svg" style="width: 80px; height: auto;")
+                img(src="@/assets/curso/tema5/img_47.svg" style="width: 80px; height: auto;")
             .col.py-4.px-3
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
