@@ -12,14 +12,14 @@
         figure
           img(src='@/assets/curso/tema1/img_1.png', class="img-fluid") 
       .col-12.col-lg-9
-        p.mb-3(data-aos="zoom-in-right") En el contexto empresarial, internet ha evolucionado de ser una herramienta de apoyo a convertirse en un factor estratégico determinante para la competitividad organizacional. Las empresas utilizan internet para promocionar productos, interactuar con clientes, gestionar operaciones internas y analizar información del mercado. Esta transformación ha dado origen a nuevos modelos de negocio que dependen directamente del entorno digital para su funcionamiento y crecimiento.
+        p.mb-3(data-aos="zoom-in-right") Internet constituye una infraestructura tecnológica global basada en la interconexión de redes informáticas que operan bajo protocolos de comunicación estandarizados, como TCP/IP. Esta red permite el intercambio continuo de información entre personas, organizaciones y sistemas tecnológicos a nivel mundial, convirtiéndose en un pilar fundamental del desarrollo económico, social y empresarial. Su importancia radica en la capacidad de transmitir datos de manera inmediata, segura y eficiente, eliminando barreras geográficas y temporales que antes limitaban las actividades comerciales.
         .tarjeta.color-primario-v.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_2.png', class="img-fluid")
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-              p.mb-0 Internet constituye una infraestructura tecnológica global basada en la interconexión de redes informáticas que operan bajo protocolos de comunicación estandarizados, como TCP/IP. Esta red permite el intercambio continuo de información entre personas, organizaciones y sistemas tecnológicos a nivel mundial, convirtiéndose en un pilar fundamental del desarrollo económico, social y empresarial. Su importancia radica en la capacidad de transmitir datos de manera inmediata, segura y eficiente, eliminando barreras geográficas y temporales que antes limitaban las actividades comerciales.
+              p.mb-0 En el contexto empresarial, internet ha evolucionado de ser una herramienta de apoyo a convertirse en un factor estratégico determinante para la competitividad organizacional. Las empresas utilizan internet para promocionar productos, interactuar con clientes, gestionar operaciones internas y analizar información del mercado. Esta transformación ha dado origen a nuevos modelos de negocio que dependen directamente del entorno digital para su funcionamiento y crecimiento.
  
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -39,7 +39,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 Ejemplo de ello son las empresas como Rappi y Mercado Libre surgieron aprovechando el acceso masivo a internet, logrando conectar oferta y demanda mediante plataformas digitales, sin necesidad de infraestructura física tradicional.
+                p.mb-0 Ejemplo de ello son las empresas como Rappi y Mercado Libre, surgieron aprovechando el acceso masivo a internet, logrando conectar oferta y demanda mediante plataformas digitales, sin necesidad de infraestructura física tradicional.
         .col-md-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
@@ -52,7 +52,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/tema1/img_7.svg', class="img-fluid d-none d-lg-block", alt="La figura 1 muestra cual es la importancia del internet en los negocios electrónicos. ").mb-5
             img(src='@/assets/curso/tema1/img_8.svg', class="img-fluid d-block d-lg-none", alt="La figura 1 muestra cual es la importancia del internet en los negocios electrónicos. ").mb-5
-            figcaption Nota. Sena, (2026).
+            figcaption <b>Nota.</b> Sena, (2026).
 
     Separador
 
@@ -72,7 +72,7 @@
         .subtitulo-destacado__icono
           img(src='@/assets/curso/tema1/img_11.png', aria-hidden='true').subtitulo-destacado__img
         .subtitulo-destacado__fondo
-          h4.subtitulo-destacado__texto Características del comercio electrónico.
+          h4.subtitulo-destacado__texto Características del comercio electrónico
 
       .row.justify-content-center.align-items-center.mb-5
         .col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -97,7 +97,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada de Laudon y Laudon, (2020).
+          p <b>Nota.</b> Adaptada de Laudon y Laudon, (2020).
         thead
           tr
             th.col-auto.col-lg-2 Característica
@@ -133,7 +133,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema1/img_15.svg', class="img-fluid d-none d-lg-block", alt="En la figura 2 se enlistan las mas importantes características del comercio electrónico. ").mb-5
           img(src='@/assets/curso/tema1/img_16.svg', class="img-fluid d-block d-lg-none", alt="En la figura 2 se enlistan las mas importantes características del comercio electrónico. ").mb-5
-          figcaption Nota. Sena, (2026).
+          figcaption <b>Nota.</b> Sena, (2026).
 
     .bg_img_4.mb-3
 
@@ -152,7 +152,7 @@
                   img(src='@/assets/curso/tema1/img_18.png', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 El comercio electrónico se clasifica según la naturaleza de los actores que intervienen en la transacción. Esta clasificación permite comprender mejor las dinámicas del mercado digital y diseñar estrategias comerciales acordes a cada modelo de negocio. A continuación, se enuncian los modelos de comercio electrónico según los actores involucrados.
-          p.mb-0(data-aos='zoom-in-right') Tipos de comercio electrónico según los participantes con ejemplos reales
+          p.mb-0(data-aos='zoom-in-right') Tipos de comercio electrónico según los participantes con ejemplos reales:
         .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_19.png', class="img-fluid") 
@@ -185,7 +185,7 @@
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 C2C
               p.mb-0 Intercambio entre consumidores.
-              p.mb-0 #[b Ejemplo:] Facebook Marketplace
+              p.mb-0 #[b Ejemplo:] Facebook <em>Marketplace</em>
 
         .col-12.col-md-6.col-lg-3.col-xl-3.d-flex.mb-3.mb-xl-0(data-aos="flip-left")
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
@@ -223,7 +223,7 @@
           figure
             img(src='@/assets/curso/tema1/img_27.svg', class="img-fluid p-3")
         .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-          p.mb-0 Los negocios electrónicos impulsan la innovación organizacional mediante la implementación de plataformas digitales que facilitan nuevos modelos de negocio, como servicios bajo demanda, comercio colaborativo y ecosistemas digitales. Estos modelos transforman la relación tradicional entre empresa y cliente, generando experiencias más personalizadas y eficientes
+          p.mb-0 Los negocios electrónicos impulsan la innovación organizacional mediante la implementación de plataformas digitales que facilitan nuevos modelos de negocio, como servicios bajo demanda, comercio colaborativo y ecosistemas digitales. Estos modelos transforman la relación tradicional entre empresa y cliente, generando experiencias más personalizadas y eficientes.
 
       .titulo-sexto.color-primario(data-aos="zoom-in-right")
         h5 Tabla 2.
@@ -231,7 +231,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Tomado de David, (2020).
+          p <b>Nota.</b> Tomado de David, (2020).
         thead
           tr
             th.col-auto.col-lg-auto Aspecto

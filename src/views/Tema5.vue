@@ -27,7 +27,7 @@
       Separador
 
       #t_5_1.titulo-segundo.color-primario
-        .h2(data-aos="fade-right") 5.1	Matriz DOFA.
+        .h2(data-aos="fade-right") 5.1	Matriz DOFA
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
@@ -146,7 +146,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/tema5/img_15.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra las diferentes estrategias que se generan del análisis DOFA y su respectivo alcance.").mb-5
             img(src='@/assets/curso/tema5/img_16.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra las diferentes estrategias que se generan del análisis DOFA y su respectivo alcance.").mb-5
-            figcaption Nota. Sena, (2026).
+            figcaption <b>Nota.</b> Sena, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-10.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -170,7 +170,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Adaptada David, (2020).
+            p <b>Nota.</b> Adaptada David, (2020).
           thead
             tr
               th.col-auto.col-lg-3 Estrategia
@@ -242,7 +242,7 @@
           .subtitulo-destacado__icono
             img(src='@/assets/curso/tema1/img_11.png', aria-hidden='true').subtitulo-destacado__img
           .subtitulo-destacado__fondo
-            h4.subtitulo-destacado__texto Empresa de comercio electrónico: ClickNova Digital S.A.S.
+            h4.subtitulo-destacado__texto Empresa de comercio electrónico: ClickNova Digital S.A.S
 
         h4.mb-4(data-aos="zoom-in-right") Descripción de la empresa (ficticia).
         
@@ -317,7 +317,7 @@
                       span Mayor adopción de pagos electrónicos por parte de los consumidores.
                     li.d-flex.align-items-start.mb-0
                       i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
-                      span Disponibilidad de herramientas digitales de bajo costo para marketing.
+                      span Disponibilidad de herramientas digitales de bajo costo para <em>marketing</em>.
                     li.d-flex.align-items-start.mb-0
                       i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Tendencia hacia la automatización de procesos comerciales.
@@ -374,7 +374,7 @@
                     span Implementar sistemas básicos de analítica web para conocer mejor el comportamiento del cliente.
                   li.d-flex.align-items-start.mb-0
                     i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
-                    span Diseñar campañas digitales segmentadas que optimicen el presupuesto de marketing.
+                    span Diseñar campañas digitales segmentadas que optimicen el presupuesto de <em>marketing</em>.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias FA<br>(fortalezas + amenazas)")
             .row.justify-content-center.align-items-center.mb-0
               .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -477,7 +477,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Sena, (2026).
+          p <b>Nota.</b> Sena, (2026).
         thead
           tr
             th.col-auto.col-lg-auto Factor crítico
@@ -511,7 +511,7 @@
             td 2
             td 4
           tr
-            td.text-start Innovación.
+            td.text-start Precio.
             td 0,15
             td 2
             td 3
@@ -569,7 +569,7 @@
           .subtitulo-destacado__icono
             img(src='@/assets/curso/tema1/img_11.png', aria-hidden='true').subtitulo-destacado__img
           .subtitulo-destacado__fondo
-            h4.subtitulo-destacado__texto Empresa: ClickNova Digital S.A.S.
+            h4.subtitulo-destacado__texto Empresa: ClickNova Digital S.A.S
         
         h4.mb-5(data-aos="zoom-in-right") Descripción del análisis
         
@@ -589,7 +589,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p Nota. Escala de calificación: 1 = Deficiente, 2 = Bajo, 3 = Aceptable, 4 = Superior. Los valores entre paréntesis corresponden al puntaje ponderado.
+              p <b>Nota.</b> Escala de calificación: 1 = Deficiente, 2 = Bajo, 3 = Aceptable, 4 = Superior. Los valores entre paréntesis corresponden al puntaje ponderado.
             thead
               tr
                 th.col-auto.col-lg-auto Factor crítico de éxito
@@ -641,11 +641,11 @@
                 td 3 (0,30)
                 td 3 (0,30)
               tr
-                td.text-start Total
-                td 1,00
-                td 3,10
-                td 3,20
-                td 3,25
+                td.text-start <b>Total</b>
+                td <b>1,00</b>
+                td <b>3,10</b>
+                td <b>3,20</b>
+                td <b>3,25</b>
         
         h4.mb-5(data-aos="zoom-in-right") Interpretación de la matriz de perfil competitivo
         

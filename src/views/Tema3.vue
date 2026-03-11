@@ -29,7 +29,7 @@
               .tarjeta--color-white.h-100
                 .tarjeta--02 
                 h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Servicios en los negocios electrónicos
-                .tarjeta--slider__content.text-center Se caracterizan por su enfoque en la experiencia del cliente y el uso de plataformas tecnológicas. A través de canales digitales como chats, correos electrónicos y sistemas automatizados, las empresas pueden brindar atención personalizada, realizar seguimiento a solicitudes y resolver inquietudes en tiempo real. Esta dinámica mejora la satisfacción del cliente y contribuye a la fidelización en mercados altamente competitivos.
+                .tarjeta--slider__content.text-center Se caracterizan por su enfoque en la experiencia del cliente y el uso de plataformas tecnológicas. A través de canales digitales como <em>chats</em>, correos electrónicos y sistemas automatizados, las empresas pueden brindar atención personalizada, realizar seguimiento a solicitudes y resolver inquietudes en tiempo real. Esta dinámica mejora la satisfacción del cliente y contribuye a la fidelización en mercados altamente competitivos.
               .tarjeta--color-white.h-100
                 .tarjeta--03
                 h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Procesos en los negocios electrónicos
@@ -63,7 +63,7 @@
    
     br
 
-    p.mb-5(data-aos="zoom-in-right") Las siguientes tablas presentan una clasificación de los tipos de productos y servicios que se comercializan en los negocios electrónicos, así como los principales criterios utilizados para la segmentación del mercado digital, ilustrados mediante ejemplos y aplicaciones en empresas reconocidas.
+    p.mb-5(data-aos="zoom-in-right") En la siguiente tabla se presenta la clasificación de los tipos de productos y servicios que se comercializan en los negocios electrónicos, así como los principales criterios utilizados para la segmentación del mercado digital, ilustrados mediante ejemplos y aplicaciones en empresas reconocidas.
 
     .bg_img_9.mb-3
       .titulo-sexto.color-primario(data-aos="zoom-in-right")
@@ -72,7 +72,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Tomado de Kotler y Keller, (2021).
+            p <b>Nota.</b> Tomado de Kotler y Keller, (2021).
           thead
             tr
               th.col-auto.col-lg-auto Tipo
@@ -88,15 +88,15 @@
             tr
               td.text-start Productos digitales.
               td.text-start Entrega inmediata, bajo costo.
-              td.text-start Software, cursos online.
+              td.text-start Software, cursos <em>online</em>.
               td.text-start Microsoft (licencias digitales).
             tr
               td.text-start Servicios digitales.
               td.text-start Intangibles y personalizados.
-              td.text-start Streaming, consultoría.
+              td.text-start <em>Streaming</em>, consultoría.
               td.text-start Netflix (suscripciones).
 
-      p.mb-3(data-aos="zoom-in-right") Criterios para la segmentación del mercado digital con ejemplos
+      p.mb-3(data-aos="zoom-in-right") Criterios para la segmentación del mercado digital con ejemplos:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-md-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
@@ -120,7 +120,7 @@
                 .p-3
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Geográfico
                   p.mb-0 Ubicación del cliente.
-                  p.mb-0 #[b Ejemplo:] mercados regionales
+                  p.mb-0 #[b Ejemplo:] mercados regionales.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
                   figure.mb-0
@@ -128,14 +128,14 @@
                 .p-3
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Psicográfico
                   p.mb-0 Ubicación del cliente.
-                  p.mb-0 #[b Ejemplo:] usuarios fitness.
+                  p.mb-0 #[b Ejemplo:] usuarios <em>fitness</em>.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--color-adicional-1.mb-3
                   figure.mb-0
                     img(src='@/assets/curso/tema3/img_16.png', class="img-fluid mb-3" style="max-height: 100px; object-fit: contain;")
                 .p-3
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Conductual
-                  p.mb-0 Hábitos de compra online.
+                  p.mb-0 Hábitos de compra <em>online</em>.
                   p.mb-0 #[b Ejemplo:] compradores frecuentes.
 
 

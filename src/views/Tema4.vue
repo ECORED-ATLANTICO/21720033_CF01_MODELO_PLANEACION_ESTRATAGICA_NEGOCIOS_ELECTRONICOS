@@ -48,7 +48,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada con base en el análisis de modelos de negocio de Amazon (Stone, 2013), Mercado Libre (2025), Netflix (Smith, 2021) y Shopify (Rogers, 2020).
+          p <b>Nota.</b> Adaptada con base en el análisis de modelos de negocio de Amazon (Stone, 2013), Mercado Libre (2025), Netflix (Smith, 2021) y Shopify (Rogers, 2020).
         thead
           tr
             th.col-auto.col-lg-2 Empresa
@@ -61,11 +61,11 @@
             td.text-start Planea su crecimiento mediante análisis de datos, automatización logística y expansión digital continua.
           tr
             td.text-start Mercado Libre.
-            td.text-start Marketplace digital.
+            td.text-start <em>Marketplace</em> digital.
             td.text-start Ajusta su planeación estratégica según el comportamiento del consumidor y las tendencias regionales.
           tr
             td.text-start Netflix.
-            td.text-start Plataforma de streaming.
+            td.text-start Plataforma de <em>streaming</em>.
             td.text-start Utiliza analítica avanzada para planear contenidos y expansión internacional.
           tr
             td.text-start Shopify.
@@ -131,7 +131,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Tomado de las misiones organizacionales de Amazon (2025), Rappi (2024), Airbnb (2025) y Spotify (2024).
+          p <b>Nota.</b> Tomado de las misiones organizacionales de Amazon (2025), Rappi (2024), Airbnb (2025) y Spotify (2024).
         thead
           tr
             th.col-auto.col-lg-2 Empresa
@@ -142,7 +142,7 @@
             td.text-start Ser la empresa más centrada en el cliente del mundo, donde los clientes puedan encontrar y descubrir cualquier cosa que deseen comprar en línea.
           tr
             td.text-start Rappi.
-            td.text-start Trabajamos para convertirnos en la SuperApp líder de Latinoamérica, facilitando la vida de las personas mediante el uso de la tecnología.
+            td.text-start Trabajamos para convertirnos en la Super<em>App</em> líder de Latinoamérica, facilitando la vida de las personas mediante el uso de la tecnología.
           tr
             td.text-start Airbnb.
             td.text-start Crear un mundo donde cualquier persona pueda sentirse como en casa en cualquier lugar.
@@ -228,7 +228,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Tomado de las misiones organizacionales de Amazon (2025), Rappi (2024), Airbnb (2025) y Spotify (2024).
+          p <b>Nota.</b> Tomado de las misiones organizacionales de Amazon (2025), Rappi (2024), Airbnb (2025) y Spotify (2024).
         thead
           tr
             th.col-auto.col-lg-2 Empresa
@@ -315,7 +315,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Tomado de los objetivos estratégicos corporativos de Netflix (2024), Amazon (2025), Uber (2023) y Mercado Pago (2025).
+          p <b>Nota.</b> Tomado de los objetivos estratégicos corporativos de Netflix (2024), Amazon (2025), Uber (2023) y Mercado Pago (2025).
         thead
           tr
             th.col-auto.col-lg-2 Empresa
@@ -367,7 +367,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Tomado de las políticas corporativas de Google (2025), Amazon (2025), PayPal (2024) y Apple (2025).
+          p <b>Nota.</b> Tomado de las políticas corporativas de Google (2025), Amazon (2025), PayPal (2024) y Apple (2025).
         thead
           tr
             th.col-auto.col-lg-2 Empresa
@@ -423,7 +423,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Tomado de información de corporaciones de Amazon (2025), Microsoft (2025), Google (2025) y Shopify (2025).
+            p <b>Nota.</b> Tomado de información de corporaciones de Amazon (2025), Microsoft (2025), Google (2025) y Shopify (2025).
           thead
             tr
               th.col-auto.col-lg-2 Empresa
@@ -432,11 +432,11 @@
           tbody
             tr
               td.text-start Amazon.
-              td.text-start Compromiso climático (Climate pledge).
+              td.text-start Compromiso climático (<em>Climate pledge</em>).
               td.text-start Compromiso de alcanzar cero emisiones netas de carbono para 2040 y utilizar energías renovables.
             tr
               td.text-start Microsoft.
-              td.text-start Inteligencia artificial para el bien (AI for good).
+              td.text-start Inteligencia artificial para el bien (<em>AI for good</em>).
               td.text-start Programas que emplean tecnología e inteligencia artificial para apoyar la educación, el medio ambiente y la accesibilidad.
             tr
               td.text-start Google.
@@ -444,7 +444,7 @@
               td.text-start Apoyo a proyectos sociales, medioambientales y educativos en diferentes países.
             tr
               td.text-start Shopify.
-              td.text-start Programa construye un negocio (Build a business program).
+              td.text-start Programa construye un negocio (<em>Build a business program</em>).
               td.text-start Apoyo a emprendedores de comunidades vulnerables y promoción de comercio inclusivo.
 </template>
 

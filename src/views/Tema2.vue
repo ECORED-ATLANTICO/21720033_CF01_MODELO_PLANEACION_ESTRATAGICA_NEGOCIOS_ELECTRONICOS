@@ -32,7 +32,7 @@
                 figure
                   img(src='@/assets/curso/tema2/img_3.png', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 Empresas como Netflix pasaron de un modelo físico de alquiler de DVDs a un modelo digital basado en streaming, demostrando cómo la evolución tecnológica redefine completamente los modelos de negocio.
+                p.mb-0 Empresas como Netflix pasaron de un modelo físico de alquiler de DVDs a un modelo digital basado en <em>streaming</em>, demostrando cómo la evolución tecnológica redefine completamente los modelos de negocio.
         .col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_4.png', class="img-fluid") 
@@ -45,7 +45,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/tema2/img_6.svg', class="img-fluid d-none d-lg-block", alt="En la figura 3 se establece como ha sido evolución de los negocios electrónicos;  desde el uso inicial de internet solo para informar, hasta la automatización de procesos empresariales.").mb-5
             img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid d-block d-lg-none", alt="En la figura 3 se establece como ha sido evolución de los negocios electrónicos;  desde el uso inicial de internet solo para informar, hasta la automatización de procesos empresariales.").mb-5
-            figcaption Nota. Sena, (2026).
+            figcaption <b>Nota.</b> Sena, (2026).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
