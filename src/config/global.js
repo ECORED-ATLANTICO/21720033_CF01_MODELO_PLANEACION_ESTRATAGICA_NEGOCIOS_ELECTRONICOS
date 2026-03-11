@@ -157,11 +157,13 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
+      /*
       {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
       },
+      */
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -184,6 +186,7 @@ export default {
       },
     ],
   },
+  /*
   complementario: [
     {
       tema: 'Internet',
@@ -216,6 +219,7 @@ export default {
       link: 'https://www.redalyc.org/pdf/292/29212108.pdf',
     },
   ],
+  */
   glosario: [
     {
       termino: 'Analítica digital',

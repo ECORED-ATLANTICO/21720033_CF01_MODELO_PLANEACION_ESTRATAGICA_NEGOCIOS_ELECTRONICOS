@@ -351,7 +351,7 @@
           .row.justify-content-center.align-items-center.mb-3
             .col-12.col-lg-12(data-aos="zoom-in-right")
               .cita-decorada
-                blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-2
+                blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-2
                   .row.justify-content-center.align-items-center
                     .col-12.col-lg-10
                       p.cita-decorada__texto.mb-2.p-3 Cuando las políticas se definen de manera clara y coherente, no solo facilitan la operación interna y la gobernanza corporativa, sino que también fortalecen la confianza de los clientes, garantizan el cumplimiento de las normas legales y regulatorias, y contribuyen a la sostenibilidad y reputación del negocio electrónico a largo plazo. Además, establecen un marco que permite adaptarse de manera ágil a los cambios tecnológicos y a las exigencias del mercado digital, minimizando riesgos y promoviendo la innovación responsable.

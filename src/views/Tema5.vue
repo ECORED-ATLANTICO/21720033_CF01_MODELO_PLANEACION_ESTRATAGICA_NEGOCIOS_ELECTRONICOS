@@ -63,34 +63,34 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10.mb-3
           PasosA.color-secundario.mb-5(tipo="n", data-aos="zoom-in-right")
-            .row
+            .row.d-flex.justify-content-center.align-items-center
               .col-12.col-lg-10.order-2.order-lg-1
                 h3 Fortalezas (F)
                 p.mb-0 Son las capacidades, recursos y ventajas internas que diferencian positivamente al negocio electrónico. En este contexto pueden incluir una plataforma tecnológica robusta, buen posicionamiento en buscadores, experiencia de usuario optimizada, canales digitales eficientes, base de datos de clientes o un equipo con competencias digitales.
-              .col-8.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_8.png', class="img-fluid")
-            .row
-              .col-8.col-lg-2.mb-3.mb-lg-0
+            .row.d-flex.justify-content-center.align-items-center
+              .col-6.col-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_9.png', class="img-fluid")
               .col-12.col-lg-10
-                h3 Debilidades (D)
-                p.mb-0 Corresponden a limitaciones internas que afectan el desempeño del negocio electrónico. Entre ellas se encuentran fallas en la seguridad digital, baja visibilidad en línea, deficiencias logísticas, escasa analítica de datos, procesos poco automatizados o desconocimiento del cliente digital.
-            .row
+                h3.text-start Debilidades (D)
+                p.text-start.mb-0 Corresponden a limitaciones internas que afectan el desempeño del negocio electrónico. Entre ellas se encuentran fallas en la seguridad digital, baja visibilidad en línea, deficiencias logísticas, escasa analítica de datos, procesos poco automatizados o desconocimiento del cliente digital.
+            .row.d-flex.justify-content-center.align-items-center
               .ol-12.col-lg-10.order-2.order-lg-1
                 h3 Oportunidades (O)
                 p.mb-0 Son factores externos favorables que el negocio puede aprovechar. En los entornos digitales incluyen el crecimiento del comercio electrónico, nuevas tecnologías, cambios en los hábitos de consumo, acceso a mercados internacionales, alianzas estratégicas o incentivos gubernamentales para la transformación digital.
-              .col-8.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_8.png', class="img-fluid")
-            .row
-              .col-8.col-lg-2.mb-3.mb-lg-0
+            .row.d-flex.justify-content-center.align-items-center
+              .col-6.col-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema5/img_11.png', class="img-fluid")
               .col-12.col-lg-10
-                h3 Amenazas (A)
-                p.mb-0 Representan factores externos que pueden afectar negativamente al negocio electrónico. Ejemplos comunes son el aumento de la competencia digital, cambios en normativas, riesgos de ciberseguridad, dependencia de plataformas externas, variaciones en costos tecnológicos o desconfianza del consumidor en entornos digitales.
+                h3.text-start Amenazas (A)
+                p.text-start.mb-0 Representan factores externos que pueden afectar negativamente al negocio electrónico. Ejemplos comunes son el aumento de la competencia digital, cambios en normativas, riesgos de ciberseguridad, dependencia de plataformas externas, variaciones en costos tecnológicos o desconfianza del consumidor en entornos digitales.
         .col-12.col-lg-10
           p.mb-0 Esta composición permite organizar la información de manera clara y facilita la posterior formulación de estrategias.
 
@@ -237,7 +237,7 @@
           .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
             p.text-white.mb-0 El siguiente ejemplo presenta la aplicación del análisis DOFA a una empresa ficticia de comercio electrónico, con el fin de identificar su situación estratégica y orientar la formulación de decisiones en el entorno digital:
 
-      .tarjeta.tarjeta--blanca.p-5.rounded-4.box-shadow.mb-0(data-aos="zoom-in-right")
+      .tarjeta.tarjeta--blanca.p-4.rounded-4.box-shadow.mb-0(data-aos="zoom-in-right")
         .subtitulo-destacado.mb-5
           .subtitulo-destacado__icono
             img(src='@/assets/curso/tema1/img_11.png', aria-hidden='true').subtitulo-destacado__img
@@ -265,19 +265,19 @@
                 .col-12.col-lg-9.order-2.order-lg-1
                   ul.list-unstyled.mb-1
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Plataforma web propia con diseño adaptable a dispositivos móviles.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Catálogo de productos innovadores orientados al hogar inteligente.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Integración de múltiples pasarelas de pago digitales.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Atención al cliente mediante chat automatizado y correo electrónico.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Procesos de compra simplificados que reducen el abandono del carrito.
                 .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                   figure
@@ -286,19 +286,19 @@
                 .col-12.col-lg-9.order-2.order-lg-1
                   ul.list-unstyled.mb-1
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Marca con bajo reconocimiento en el mercado nacional.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Dependencia de proveedores externos para el abastecimiento.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Escasa experiencia en análisis de datos del comportamiento del cliente.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Limitaciones presupuestales para publicidad digital de alto alcance.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Procesos de postventa poco estructurados.
                 .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                   figure
@@ -307,19 +307,19 @@
                 .col-12.col-lg-9.order-2.order-lg-1
                   ul.list-unstyled.mb-1
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Creciente interés del mercado por soluciones tecnológicas para el hogar.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Aumento del comercio electrónico en ciudades intermedias.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Mayor adopción de pagos electrónicos por parte de los consumidores.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Disponibilidad de herramientas digitales de bajo costo para marketing.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Tendencia hacia la automatización de procesos comerciales.
                 .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                   figure
@@ -328,19 +328,19 @@
                 .col-12.col-lg-9.order-2.order-lg-1
                   ul.list-unstyled.mb-1
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Competencia de grandes plataformas internacionales consolidadas.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Incremento de costos logísticos y de transporte.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Cambios en normativas relacionadas con protección de datos.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Riesgos asociados a ciberataques y fraudes electrónicos.
                     li.d-flex.align-items-start.mb-0
-                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                      i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Alta sensibilidad del consumidor al precio y a los tiempos de entrega.
                 .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                   figure
@@ -357,10 +357,10 @@
               .col-12.col-lg-8
                 ul.list-unstyled.mb-1
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Utilizar la plataforma móvil y el catálogo innovador para ingresar a nuevos mercados regionales interesados en tecnología para el hogar.
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Aprovechar herramientas digitales de bajo costo para posicionar la marca en redes sociales
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias DO<br>(debilidades + oportunidades)")
             .row.justify-content-center.align-items-center.mb-0
@@ -370,10 +370,10 @@
               .col-12.col-lg-8
                 ul.list-unstyled.mb-1
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Implementar sistemas básicos de analítica web para conocer mejor el comportamiento del cliente.
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Diseñar campañas digitales segmentadas que optimicen el presupuesto de marketing.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias FA<br>(fortalezas + amenazas)")
             .row.justify-content-center.align-items-center.mb-0
@@ -383,10 +383,10 @@
               .col-12.col-lg-8
                 ul.list-unstyled.mb-1
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Fortalecer los sistemas de seguridad de la plataforma para generar confianza en los clientes.
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Diferenciar la experiencia de compra mediante atención digital personalizada.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias DA<br>(debilidades + amenazas)")
             .row.justify-content-center.align-items-center.mb-0
@@ -396,10 +396,10 @@
               .col-12.col-lg-8
                 ul.list-unstyled.mb-1
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Diversificar proveedores para reducir riesgos de desabastecimiento.
                   li.d-flex.align-items-start.mb-0
-                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                    i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                     span Estandarizar procesos de postventa para disminuir reclamos y devoluciones.
         
         h4.mb-5(data-aos="zoom-in-right") Análisis estratégico del DOFA
@@ -448,25 +448,25 @@
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3.h-100.d-flex.align-items-center.justify-content-center
             ul.list-unstyled.mb-1
               li.d-flex.align-items-start.mb-0
-                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                 span #[b Factores críticos de éxito:] son aquellos elementos que determinan el éxito en un sector específico (precio, calidad, tecnología, experiencia del cliente, etc.).
         .col-12.col-lg-6.mb-4
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3.h-100.d-flex.align-items-center.justify-content-center
             ul.list-unstyled.mb-1
               li.d-flex.align-items-start.mb-0
-                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                 span #[b Pesos:] representan la importancia relativa de cada factor, asignando valores que en conjunto suman 1,0.
         .col-12.col-lg-6.mb-4
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3.h-100.d-flex.align-items-center.justify-content-center
             ul.list-unstyled.mb-1
               li.d-flex.align-items-start.mb-0
-                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                 span #[b Calificaciones:] : indican el desempeño de la empresa y sus competidores frente a cada factor, generalmente en una escala de 1 a 4.
         .col-12.col-lg-6.mb-4
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3.h-100.d-flex.align-items-center.justify-content-center
             ul.list-unstyled.mb-1
               li.d-flex.align-items-start.mb-0
-                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
+                i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                 span #[b Puntaje ponderado: ] se obtiene al multiplicar el peso por la calificación, permitiendo comparar objetivamente el desempeño competitivo.
 
       p.mb-5(data-aos="zoom-in-right") La tabla muestra un ejemplo de aplicación del perfil competitivo (MPC) para comparar el desempeño de una empresa frente a sus principales competidores.
@@ -563,7 +563,7 @@
           .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
             p.text-white.mb-0 El siguiente ejemplo muestra cómo la integración del análisis DOFA y el perfil competitivo permite obtener una visión estratégica más completa para la toma de decisiones en negocios electrónicos:
 
-      .tarjeta.tarjeta--blanca.p-5.rounded-4.box-shadow.mb-3(data-aos="zoom-in-right")
+      .tarjeta.tarjeta--blanca.p-4.rounded-4.box-shadow.mb-3(data-aos="zoom-in-right")
         
         .subtitulo-destacado.mb-5
           .subtitulo-destacado__icono
@@ -665,6 +665,7 @@
     br 
     br
     br 
+    br
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
