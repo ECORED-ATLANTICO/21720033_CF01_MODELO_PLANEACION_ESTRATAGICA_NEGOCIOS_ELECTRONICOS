@@ -52,7 +52,7 @@
         .tarjeta--bg-img.color-primario-o.rounded-3.overflow-hidden
           .row.align-items-center.mb-0
 
-            .col-8.col-md-4.col-lg-2.align-items-center.p-4
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema2/img_8.svg" )
             .col-12.col-md-8.col-lg-10.p-4

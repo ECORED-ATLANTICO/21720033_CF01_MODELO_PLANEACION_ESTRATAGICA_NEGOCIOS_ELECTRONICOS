@@ -670,11 +670,12 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-primario-o.rounded-3.overflow-hidden
-          .row.justify-content-around.align-items-center.mb-0
-            .col-auto.d-flex.align-items-center.ps-4.py-3
+          .row.align-items-center.mb-0
+
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-0
-                img(src="@/assets/curso/tema5/img_47.svg" style="width: 80px; height: auto;")
-            .col.py-4.px-3
+                img(src="@/assets/curso/tema5/img_47.svg")
+            .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
                   p.mb-0.fw-bold.text-white Acceder a este enlace para profundizar en el uso de la matriz DOFA como herramienta de diagnóstico y formulación de estrategias en el análisis organizacional:
