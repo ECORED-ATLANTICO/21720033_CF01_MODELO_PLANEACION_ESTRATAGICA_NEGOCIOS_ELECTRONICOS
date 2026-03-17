@@ -88,7 +88,7 @@
             tr
               td.text-start Productos digitales.
               td.text-start Entrega inmediata, bajo costo.
-              td.text-start Software, cursos <em>online</em>.
+              td.text-start <em>Software</em>, cursos <em>online</em>.
               td.text-start Microsoft (licencias digitales).
             tr
               td.text-start Servicios digitales.

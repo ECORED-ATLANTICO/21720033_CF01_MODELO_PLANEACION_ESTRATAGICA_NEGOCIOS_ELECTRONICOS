@@ -62,7 +62,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10.mb-3
-          PasosA.color-secundario.mb-5(tipo="n", data-aos="zoom-in-right")
+          PasosA.pasos-a--letras.color-secundario.mb-5(tipo="a", data-aos="zoom-in-right")
             .row.d-flex.justify-content-center.align-items-center
               .col-12.col-lg-10.order-2.order-lg-1
                 h3 Fortalezas (F)
@@ -244,7 +244,7 @@
           .subtitulo-destacado__fondo
             h4.subtitulo-destacado__texto Empresa de comercio electrónico: ClickNova Digital S.A.S
 
-        h4.mb-4(data-aos="zoom-in-right") Descripción de la empresa (ficticia).
+        h4.mb-4(data-aos="zoom-in-right") Descripción de la empresa (ficticia)
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -461,7 +461,7 @@
             ul.list-unstyled.mb-1
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
-                span #[b Calificaciones:] : indican el desempeño de la empresa y sus competidores frente a cada factor, generalmente en una escala de 1 a 4.
+                span #[b Calificaciones:] indican el desempeño de la empresa y sus competidores frente a cada factor, generalmente en una escala de 1 a 4.
         .col-12.col-lg-6.mb-4
           .tarjeta.color-primario-v.p-3.rounded-4.mb-3.h-100.d-flex.align-items-center.justify-content-center
             ul.list-unstyled.mb-1
@@ -659,7 +659,7 @@
                   img(src='@/assets/curso/tema5/img_46.png', class="cita-decorada__imagen-flotante-2")
         
         h4.mb-3(data-aos="zoom-in-right") Relación entre la MPC y el análisis DOFA
-        p.mb-0(data-aos="zoom-in-right") La información obtenida en la MPC complementa el análisis DOFA previamente realizado, confirmando debilidades internas relacionadas con la logística y el reconocimiento de marca, así como fortalezas asociadas a la tecnología y la atención al cliente. Esta articulación facilita la formulación de estrategias coherentes y alineadas con la realidad competitiva del mercado
+        p.mb-0(data-aos="zoom-in-right") La información obtenida en la MPC complementa el análisis DOFA previamente realizado, confirmando debilidades internas relacionadas con la logística y el reconocimiento de marca, así como fortalezas asociadas a la tecnología y la atención al cliente. Esta articulación facilita la formulación de estrategias coherentes y alineadas con la realidad competitiva del mercado.
   
     br
     br 

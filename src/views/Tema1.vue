@@ -185,7 +185,7 @@
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 C2C
               p.mb-0 Intercambio entre consumidores.
-              p.mb-0 #[b Ejemplo:] Facebook <em>Marketplace</em>
+              p.mb-0 #[b Ejemplo:] Facebook <em>Marketplace</em>.
 
         .col-12.col-md-6.col-lg-3.col-xl-3.d-flex.mb-3.mb-xl-0(data-aos="flip-left")
           .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
@@ -195,7 +195,7 @@
             .p-3
               h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 B2G
               p.mb-0 Empresa vende al Estado. 
-              p.mb-0 #[b Ejemplo:] Colombia compra eficiente
+              p.mb-0 #[b Ejemplo:] Colombia compra eficiente.
 
     .bg_img_5.mb-3
        
