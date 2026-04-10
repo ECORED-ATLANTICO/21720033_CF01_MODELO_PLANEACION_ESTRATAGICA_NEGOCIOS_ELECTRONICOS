@@ -275,7 +275,7 @@
                       span Integración de múltiples pasarelas de pago digitales.
                     li.d-flex.align-items-start.mb-0
                       i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
-                      span Atención al cliente mediante chat automatizado y correo electrónico.
+                      span Atención al cliente mediante <em>chat</em> automatizado y correo electrónico.
                     li.d-flex.align-items-start.mb-0
                       i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
                       span Procesos de compra simplificados que reducen el abandono del carrito.
@@ -361,7 +361,7 @@
                     span Utilizar la plataforma móvil y el catálogo innovador para ingresar a nuevos mercados regionales interesados en tecnología para el hogar.
                   li.d-flex.align-items-start.mb-0
                     i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#7FDEFF; font-size: 15px; line-height: 1.5;").mb-0
-                    span Aprovechar herramientas digitales de bajo costo para posicionar la marca en redes sociales
+                    span Aprovechar herramientas digitales de bajo costo para posicionar la marca en redes sociales.
           .py-4.py-md-5.tarjeta.color-primario-v.p-3.rounded-bottom-4.rounded-0(titulo="Estrategias DO<br>(debilidades + oportunidades)")
             .row.justify-content-center.align-items-center.mb-0
               .col-md-8.col-lg-4.mb-3.mb-lg-0

@@ -23,7 +23,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los principios del comercio electrónico y análisis organizacional.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

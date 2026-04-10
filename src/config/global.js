@@ -302,7 +302,7 @@ export default {
         'Conjunto de actividades relacionadas con el almacenamiento, transporte y entrega de productos al cliente.',
     },
     {
-      termino: 'Marketing digital',
+      termino: '<em>Marketing digital</em>',
       significado:
         'Estrategias de promoción y comunicación realizadas a través de canales digitales.',
     },
